@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 <p>
-  As a recent graduate in Information Technology from the University of Technology Sydney, with a focus on business information systems. I have a keen interest in ICT business analysis, SQL, HTML, CSS, and troubleshooting, and I have obtained multiple certifications. I am motivated to apply my skills and knowledge to provide innovative and effective IT solutions for various organizations and industries.
-</p>
-<p>
-  I have also gained valuable experience in customer service, project management, and technical support from working in different roles. As a Sales Assistant at HYPE DC, I delivered exceptional customer experiences, optimized stock levels, and maintained a safe and productive environment. As a Student Service Outreach Assistant at UTS Careers, I reached and engaged with 90% of first-year students, providing them with personalized guidance and support, and improving their transition experience on campus. As an Associate Analyst at Deloitte, I contributed to strategic IT projects, collaborating with diverse teams, communicating clearly and professionally, and ensuring the seamless integration of technology to meet organizational goals. I am a proactive and reliable individual, committed to continuous improvement and exceeding expectations.
+  As a recent IT graduate, I'm deeply passionate about embracing new technologies and applying my learnings to real-life scenarios. My goal is to contribute innovative solutions to address the challenges of today's world.
 </p>
 
 <h2>⚡Fun facts </h2>
