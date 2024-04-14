@@ -28,3 +28,9 @@ Here are some ideas to get you started:
   <li>Photography📷 and gaming🎮? We've got quite the range of interests! Capturing moments and exploring virtual worlds are both so fulfilling.</li>
   <li>And tech? It's like stepping into the future every day! The possibilities are endless, and that's what makes it so exciting. Who knows what groundbreaking inventions await us?</li>
 </ul>
+
+<h2> 📫 Rech out to me on </h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/adarsh2604/">LinkedIn</a></li>
+  <li><a href="mailto26asingh04@gmail.com">📧Email</a></li>
+</ul>
