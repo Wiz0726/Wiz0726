@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <h2>⚡Fun facts </h2>
 <ul>
-  <li>Cristiano Ronaldo? That guy's a legend, right? His skills on the field are just mind-blowing.</li>
+  <li>Cristiano Ronaldo? He’s an absolute legend. His incredible skills on the field are what inspired me to fall in love with football.</li>
   <li>Football⚽ is life! There's nothing like the rush of dribbling past defenders and scoring that winning goal.</li>
   <li>One Piece is epic! I'm totally hooked on it too. But let's not forget our childhood favorite, Dragon Ball. It's what got us into the anime world in the first place!.</li>
   <li>Remember when we all wanted to be as strong as Goku? I think that's every kid's dream at some point. Who wouldn't want to have his powers, right?</li>
-  <li>Photography📷 and gaming🎮? We've got quite the range of interests! Capturing moments and exploring virtual worlds are both so fulfilling.</li>
+  <li>Photography📷 and gaming🎮? I've a wide range of interests! Capturing moments and exploring virtual worlds are both so fulfilling.</li>
   <li>And tech? It's like stepping into the future every day! The possibilities are endless, and that's what makes it so exciting. Who knows what groundbreaking inventions await us?</li>
 </ul>
 
